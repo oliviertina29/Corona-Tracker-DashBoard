@@ -40,6 +40,13 @@ This project aims to provide a dashboard for tracking coronavirus cases, recover
 - View pie charts showing the distribution of cases, recoveries, and deaths by continent.
 ![Example Image](Images/pie.png)
 
+
+## IMBD Dashboard
+The Lab.py file scrape data from IMDb's website to obtain information about the top-rated movies. It uses the BeautifulSoup library for web scraping and retrieves data such as movie names, release years, ratings, meta scores, and votes. The data is stored in a structured format using a Pandas DataFrame.
+
+Additionally, the code utilizes the Dash framework to create a web-based dashboard. The dashboard displays a bar graph representing the top-rated movies based on their ratings. The graph is interactive, allowing users to explore the movie ratings visually.
+![Example Image](Images/movies.png)
+
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
