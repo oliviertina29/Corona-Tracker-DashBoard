@@ -30,10 +30,15 @@ This project aims to provide a dashboard for tracking coronavirus cases, recover
 ## Features
 
 - Display coronavirus cases, recoveries, and deaths by continent.
+![Example Image](Images/hist.png)
 - Visualize countries based on various attributes such as total cases, new cases, total deaths, etc.
+![Example Image](Images/histo.png)
+![Example Image](Images/histo.png)
 - Generate box plots and violin plots to analyze the distribution of variables.
+![Example Image](Images/box.png)
+![Example Image](Images/violin.png)
 - View pie charts showing the distribution of cases, recoveries, and deaths by continent.
-
+![Example Image](Images/pie.png)
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
@@ -44,9 +49,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your changes to your fork.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
