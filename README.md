@@ -52,8 +52,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Acknowledgements
 
+- Professor Fahd KALLOUBI
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Plotly](https://plotly.com/)
 - [Dash](https://dash.plotly.com/)
-- [Worldometer](https://www.worldometers.info/coronavirus/)
 
