@@ -33,7 +33,7 @@ This project aims to provide a dashboard for tracking coronavirus cases, recover
 ![Example Image](Images/hist.png)
 - Visualize countries based on various attributes such as total cases, new cases, total deaths, etc.
 ![Example Image](Images/histo.png)
-![Example Image](Images/histo.png)
+![Example Image](Images/line.png)
 - Generate box plots and violin plots to analyze the distribution of variables.
 ![Example Image](Images/box.png)
 ![Example Image](Images/violin.png)
