@@ -53,7 +53,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Acknowledgements
 
-- Professor Fahd KALLOUBI
+- [Professor Fahd KALLOUBI](https://scholar.google.com/citations?user=clF3FawAAAAJ&hl=fr)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Plotly](https://plotly.com/)
 - [Dash](https://dash.plotly.com/)
